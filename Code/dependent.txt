@@ -1,0 +1,23 @@
+modules used:
+tensorflow 
+cv2
+numpy
+matplotlib
+random
+pandas 
+scipy.sparse 
+re
+os
+
+commands:
+pip install opencv-python
+pip install re2
+pip install scipy
+pip install numpy
+pip install pandas
+pip install random2
+
+versions:
+tensorflow 2
+scikit-learn - 0.21.3
+Numpy - 1.17
